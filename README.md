@@ -1,4 +1,4 @@
-his repository contains practical implementations of various experiments and concepts related to Operating Systems. It serves as a personal archive where I store all the complex code that I have written during my practice and learning. The primary purpose of this repository is to act as a backup for my work, ensuring that I can easily access my implementations whenever needed.
+this repository contains practical implementations of various experiments and concepts related to Operating Systems. It serves as a personal archive where I store all the complex code that I have written during my practice and learning. The primary purpose of this repository is to act as a backup for my work, ensuring that I can easily access my implementations whenever needed.
 
 The repository includes code for key operating system concepts such as:
 
